@@ -7,7 +7,6 @@
 
 The figures above show the before and after of the bubble sort algorithm. The visualization video can be accessed using the Google link: https://drive.google.com/file/d/1H22W5pCDajZgBZnV5PDhuBPwgB2vZ144/view?usp=sharing
 
-
 ### Selection Sort Before and After
 
 ![image](https://github.com/user-attachments/assets/44d14d8e-292e-44d9-ac3c-82d01c63f3c5)
